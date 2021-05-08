@@ -16,7 +16,7 @@ spec:
       values: |
         pushgateway:
           enabled: false
-    repoURL: https://github.com/rite2chetan/helm-charts
+    repoURL: https://github.com/rite2chetan/prometheus_helm
     targetRevision: 13.0.2
   syncPolicy:
     automated:
